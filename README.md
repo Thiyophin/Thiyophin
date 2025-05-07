@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Thiyophin Johnson</h1>
 
 <p align="center">
-  Welcome to my GitHub! I’m a dedicated software developer at <b>EyeROV Technologies Private Limited</b>, with a passion for <b>Machine Learning and Computer Vision</b>. I love exploring new technologies and pushing the boundaries of software development.
+  Welcome to my GitHub! I’m a dedicated Software Engineer I – Data Analytics at <b>EyeROV Technologies Private Limited</b>, with a passion for <b>Machine Learning and Computer Vision</b>. I love exploring new technologies and pushing the boundaries of software development.
 </p>
 
 ---
