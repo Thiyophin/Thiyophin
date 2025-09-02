@@ -1,52 +1,45 @@
-<h1 align="center">Hi, I'm Thiyophin Johnson</h1>
+<h1 align="center">Hi — I'm Thiyophin Johnson 👋</h1>
 
 <p align="center">
-  Welcome to my GitHub! I’m a dedicated Software Engineer I – Data Analytics at <b>EyeROV Technologies Private Limited</b>, with a passion for <b>Machine Learning and Computer Vision</b>. I love exploring new technologies and pushing the boundaries of software development.
+  Software Engineer I – Data Analytics @ <b>EyeROV Technologies Pvt. Ltd.</b> • Exploring the intersection of <b>ML / CV</b> and <b>Full-Stack</b> engineering.
 </p>
 
 ---
 
-<h2>🚀 About Me</h2>
-
-<ul>
-  <li>🔭 <strong>Currently working on:</strong> Machine Learning and Computer Vision projects</li>
-  <li>🌱 <strong>Currently learning:</strong> Advanced ML algorithms and frameworks</li>
-</ul> 
+## 🚀 Current Focus
+- **Learning Full-Stack web development** using the practical roadmaps and checkpoints from roadmap.sh (frontend → backend → deployment). :contentReference[oaicite:1]{index=1}  
+- **Following _100 Days of ML Code_** (daily hands-on ML tasks, notebooks, and projects) to sharpen ML fundamentals and build reproducible projects. :contentReference[oaicite:2]{index=2}
 
 ---
 
-<h2>🛠 Tech Stack</h2>
+## 🧭 Learning Roadmaps (what I'm following)
+I’m combining both paths — building full apps end-to-end while applying ML where it fits.
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F20?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/Machine_Learning-FF9F00?style=for-the-badge&logo=python&logoColor=white" alt="Machine Learning">
-  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</p>
+**Full-Stack (roadmap highlights)** — core areas I'm covering:  
+- **Frontend:** HTML, CSS, JavaScript, React, Tailwind, accessibility & testing.  
+- **Backend:** Node.js / Express (or alternative), RESTful APIs, auth (JWT), databases (Postgres / MongoDB).  
+- **DevOps / Deployment:** Docker, CI/CD (GitHub Actions), basic AWS (S3/EC2), monitoring and infra as code. :contentReference[oaicite:3]{index=3}
 
----
-
-<h2>🌐 Connect with Me</h2>
-
-<p>
-  <a href="https://www.linkedin.com/in/thiyophin-johnson-231a9222b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+**100 Days of ML (structure)** — daily/practical items I follow:  
+- Data preprocessing, classical ML (linear/logistic/regression, trees), feature engineering, model evaluation.  
+- Deep learning basics, CNNs, transfer learning, and small reproducible projects / notebooks. :contentReference[oaicite:4]{index=4}
 
 ---
 
-<h2>🎯 My Goals</h2>
-
-<ul>
-  <li>Contribute to impactful open-source projects</li>
-  <li>Enhance my skills in AI and deep learning</li>
-  <li>Work on innovative projects that solve real-world problems!</li>
-</ul>
+## 🛠 Tech Stack (learning / using)
+Python • OpenCV • TensorFlow • PyTorch • JavaScript • React • Node.js • Express • PostgreSQL / MongoDB • Docker • Git • GitHub Actions
 
 ---
 
-<p align="center">Feel free to explore my repositories and reach out if you want to collaborate or discuss exciting tech topics! 😊</p>
+## 🌐 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiyophin-johnson-231a9222b/)  
+Email: `thiyophinj99@gmail.com`
+
+---
+
+## 🎯 Goals
+- Ship open-source projects that combine CV/ML with full-stack apps.  
+- Finish 100 Days of ML (notebooks + 3 deployable ML demos).  
+- Become comfortable architecting and deploying production ML services.
+
+---
