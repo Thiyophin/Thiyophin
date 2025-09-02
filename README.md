@@ -7,8 +7,8 @@
 ---
 
 ## 🚀 Current Focus
-- **Learning Full-Stack web development** using the practical roadmaps and checkpoints from roadmap.sh (frontend → backend → deployment). :contentReference[oaicite:1]{index=1}  
-- **Following _100 Days of ML Code_** (daily hands-on ML tasks, notebooks, and projects) to sharpen ML fundamentals and build reproducible projects. :contentReference[oaicite:2]{index=2}
+- **Learning Full-Stack web development** using the practical roadmaps and checkpoints from roadmap.sh (frontend → backend → deployment).
+- **Following _100 Days of ML Code_** (daily hands-on ML tasks, notebooks, and projects) to sharpen ML fundamentals and build reproducible projects.
 
 ---
 
@@ -18,11 +18,11 @@ I’m combining both paths — building full apps end-to-end while applying ML w
 **Full-Stack (roadmap highlights)** — core areas I'm covering:  
 - **Frontend:** HTML, CSS, JavaScript, React, Tailwind, accessibility & testing.  
 - **Backend:** Node.js / Express (or alternative), RESTful APIs, auth (JWT), databases (Postgres / MongoDB).  
-- **DevOps / Deployment:** Docker, CI/CD (GitHub Actions), basic AWS (S3/EC2), monitoring and infra as code. :contentReference[oaicite:3]{index=3}
+- **DevOps / Deployment:** Docker, CI/CD (GitHub Actions), basic AWS (S3/EC2), monitoring and infra as code.
 
 **100 Days of ML (structure)** — daily/practical items I follow:  
 - Data preprocessing, classical ML (linear/logistic/regression, trees), feature engineering, model evaluation.  
-- Deep learning basics, CNNs, transfer learning, and small reproducible projects / notebooks. :contentReference[oaicite:4]{index=4}
+- Deep learning basics, CNNs, transfer learning, and small reproducible projects / notebooks.
 
 ---
 
