@@ -12,34 +12,8 @@
 
 ---
 
-## 🧭 Learning Roadmaps (what I'm following)
-I’m combining both paths — building full apps end-to-end while applying ML where it fits.
-
-**Full-Stack (roadmap highlights)** — core areas I'm covering:  
-- **Frontend:** HTML, CSS, JavaScript, React, Tailwind, accessibility & testing.  
-- **Backend:** Node.js / Express (or alternative), RESTful APIs, auth (JWT), databases (Postgres / MongoDB).  
-- **DevOps / Deployment:** Docker, CI/CD (GitHub Actions), basic AWS (S3/EC2), monitoring and infra as code.
-
-**100 Days of ML (structure)** — daily/practical items I follow:  
-- Data preprocessing, classical ML (linear/logistic/regression, trees), feature engineering, model evaluation.  
-- Deep learning basics, CNNs, transfer learning, and small reproducible projects / notebooks.
-
----
-
-## 🛠 Tech Stack (learning / using)
-Python • OpenCV • TensorFlow • PyTorch • JavaScript • React • Node.js • Express • PostgreSQL / MongoDB • Docker • Git • GitHub Actions
-
----
-
 ## 🌐 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiyophin-johnson-231a9222b/)  
 Email: `thiyophinj99@gmail.com`
-
----
-
-## 🎯 Goals
-- Ship open-source projects that combine CV/ML with full-stack apps.  
-- Finish 100 Days of ML (notebooks + 3 deployable ML demos).  
-- Become comfortable architecting and deploying production ML services.
 
 ---
