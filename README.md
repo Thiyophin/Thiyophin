@@ -6,12 +6,6 @@
 
 ---
 
-## 🚀 Current Focus
-- **Learning Full-Stack web development** using the practical roadmaps and checkpoints from roadmap.sh (frontend → backend → deployment).
-- **Following _100 Days of ML Code_** (daily hands-on ML tasks, notebooks, and projects) to sharpen ML fundamentals and build reproducible projects.
-
----
-
 ## 🌐 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiyophin-johnson-231a9222b/)  
 Email: `thiyophinj99@gmail.com`
